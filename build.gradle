@@ -10,5 +10,5 @@ repositories {
 }
 
 dependencies {
-	implementation 'org.codehaus.groovy:groovy'
+	implementation 'org.codehaus.groovy:groovy-all:2.5.6'
 }
